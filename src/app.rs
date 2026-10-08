@@ -890,10 +890,7 @@ fn seed_preview_rows(shared: &Shared) {
         ),
         (
             "steam.exe",
-            Some(
-                r"C:\Windows\System32
-otepad.exe",
-            ),
+            Some(r"C:\Windows\System32\notepad.exe"),
             9_800_000.0,
             15_032_385_536,
             3_145_728,
