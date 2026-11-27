@@ -1,0 +1,6 @@
+/target/
+/dist/
+/vendor/
+.tmp/
+**/.claude/settings.local.json
+CLAUDE.local.md
